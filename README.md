@@ -1,4 +1,4 @@
-![logo](https://github.com/preetamjumech/preetamjumech/blob/main/what-is-deep-learning.jfif)
+![logo](https://github.com/preetamjumech/preetamjumech/blob/main/original.jpg)
 <h1 align="center">Hi 👋, I'm Preetam Saha</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
