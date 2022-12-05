@@ -1,4 +1,4 @@
-![logo](https://github.com/preetamjumech/preetamjumech/blob/main/original.jpg)
+![logo](https://github.com/preetamjumech/preetamjumech/blob/main/data-210120-MISC-PK-Web-Headers-v2-_0004_iStock-1172094014.jpg)
 <h1 align="center">Hi 👋, I'm Preetam Saha</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
